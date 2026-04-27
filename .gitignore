@@ -25,3 +25,9 @@ data/reports/
 # --- Temporary/Log files ---
 *.log
 .ipynb_checkpoints/
+
+# --- Database Files ---
+postgres/
+pg_data/
+*.db
+*.sqlite
