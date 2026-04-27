@@ -1,0 +1,101 @@
+user_id,name,email,gender,city,signup_date
+U000001,Robert Mendoza,user000001@example.com,Other,Lopeztown,12-10-2025
+U000002,Kevin Tran,user000002@example.com,Male,North Cherylburgh,19-11-2024
+U000003,Craig Crawford,user000003@example.com,Female,New Christopherchester,26-03-2025
+U000004,Michael Gray,user000004@example.com,Male,East Ryanshire,12-04-2025
+U000005,Laura Mckenzie,user000005@example.com,Male,Alexanderchester,08-06-2025
+U000006,Heather Horn,user000006@example.com,Female,Cookville,09-04-2025
+U000007,Dawn Brown,user000007@example.com,Other,Lake Chelseahaven,20-08-2024
+U000008,Ryan Mosley,user000008@example.com,Other,New John,17-05-2025
+U000009,Jessica Dunlap,user000009@example.com,Male,South Chrisland,20-03-2026
+U000010,Keith Zhang,user000010@example.com,Female,Sweeneyhaven,20-07-2024
+U000011,Marcus Stout,user000011@example.com,Other,New Gabrielleville,31-05-2024
+U000012,Diana Brown,user000012@example.com,Other,Brooksland,26-12-2024
+U000013,Taylor Tran,user000013@example.com,Other,South Joshuafurt,15-10-2024
+U000014,Jordan Mendez,user000014@example.com,Other,Port Samantha,17-09-2024
+U000015,Marcus Zamora,user000015@example.com,Female,Mandyburgh,15-11-2024
+U000016,Christopher Gay,user000016@example.com,Female,North Juliestad,13-01-2026
+U000017,Zachary Dunlap,user000017@example.com,Male,West Pam,29-08-2025
+U000018,Grace Spence,user000018@example.com,Other,Coxborough,14-06-2024
+U000019,Darren Nguyen,user000019@example.com,Female,Port James,06-02-2026
+U000020,Laura Bradley,user000020@example.com,Other,Lopezburgh,12-02-2026
+U000021,Kimberly Dunlap,user000021@example.com,Male,Matthewfurt,09-09-2024
+U000022,Dr. Steven Davidson,user000022@example.com,Other,Port Melissa,04-03-2026
+U000023,Patricia Wright,user000023@example.com,Male,Danielbury,10-05-2025
+U000024,Katie Barrera,user000024@example.com,Female,East Peterland,17-10-2024
+U000025,Joseph Robles,user000025@example.com,Female,Deannaside,19-10-2025
+U000026,Steven Taylor,user000026@example.com,Female,Lake Jerry,09-12-2025
+U000027,Michelle Wagner,user000027@example.com,Male,Phillipsbury,06-08-2025
+U000028,Daniel Porter,user000028@example.com,Other,East Lori,29-08-2024
+U000029,George Day,user000029@example.com,Other,Blevinsville,07-05-2025
+U000030,Sabrina Jones,user000030@example.com,Female,Troyburgh,11-06-2025
+U000031,Joseph Anderson,user000031@example.com,Female,Port James,26-04-2026
+U000032,Marie Smith,user000032@example.com,Female,Alexandermouth,19-08-2025
+U000033,Andrew Myers,user000033@example.com,Female,East Lauren,03-04-2026
+U000034,Stephanie Sullivan,user000034@example.com,Female,Meyershaven,12-12-2025
+U000035,Ricky Thompson,user000035@example.com,Female,Ronaldtown,12-11-2025
+U000036,Debra Carter,user000036@example.com,Female,East Dawn,15-12-2025
+U000037,Taylor Anderson,user000037@example.com,Female,South Christopher,01-07-2024
+U000038,Christopher Moody,user000038@example.com,Male,North Georgemouth,30-08-2024
+U000039,Adam Lawrence,user000039@example.com,Female,Steveborough,18-05-2024
+U000040,Jeffery Lowery,user000040@example.com,Other,Meganchester,29-07-2025
+U000041,Traci Thomas,user000041@example.com,Female,East Jessicafort,21-07-2025
+U000042,Michael Lynch,user000042@example.com,Male,Ryanfurt,30-09-2024
+U000043,Kevin Martin,user000043@example.com,Male,North Debbie,07-09-2024
+U000044,Destiny Cardenas,user000044@example.com,Male,South Dannybury,07-05-2024
+U000045,Michael Cline,user000045@example.com,Male,Lake Danielhaven,15-01-2026
+U000046,Ricky Jones,user000046@example.com,Other,West Kristinton,08-12-2025
+U000047,Angela Knapp,user000047@example.com,Other,East Robert,24-06-2024
+U000048,Thomas Garcia,user000048@example.com,Other,Dawsonstad,10-03-2026
+U000049,Brad Johnson,user000049@example.com,Other,Christieberg,16-04-2025
+U000050,Bradley Edwards,user000050@example.com,Female,South Emilymouth,25-10-2025
+U000051,Susan Robinson,user000051@example.com,Other,Lewishaven,26-12-2024
+U000052,Zachary Cain,user000052@example.com,Other,Johnsonland,06-06-2024
+U000053,Tracie Turner,user000053@example.com,Male,Michelleport,25-09-2025
+U000054,John Moore,user000054@example.com,Male,East Vanessashire,20-11-2024
+U000055,Kevin Bridges,user000055@example.com,Female,New Lindahaven,25-03-2026
+U000056,Barbara Nguyen,user000056@example.com,Male,North Virginiahaven,07-12-2024
+U000057,John Mitchell,user000057@example.com,Male,Garciaside,13-12-2024
+U000058,Brian Lee,user000058@example.com,Female,Kellybury,05-07-2024
+U000059,Debra Fisher,user000059@example.com,Other,Jessicaton,21-06-2025
+U000060,Daniel Day,user000060@example.com,Other,East Ashleyfort,20-01-2025
+U000061,Megan Navarro,user000061@example.com,Other,Mayfort,31-05-2025
+U000062,Larry Mcmillan,user000062@example.com,Female,Hendricksport,15-11-2024
+U000063,William Murillo,user000063@example.com,Other,North Thomaschester,01-04-2026
+U000064,Jesse Robinson,user000064@example.com,Male,North Catherinehaven,12-10-2024
+U000065,Richard Woods,user000065@example.com,Female,Jenniferborough,24-09-2025
+U000066,Alexandra Tran,user000066@example.com,Female,South Paulstad,08-06-2025
+U000067,Molly Reeves,user000067@example.com,Female,Wilsonville,15-05-2024
+U000068,Richard Ramos,user000068@example.com,Male,South Stephenville,16-06-2024
+U000069,Tina Lewis,user000069@example.com,Other,East Courtneychester,16-03-2025
+U000070,Heather Chang,user000070@example.com,Other,West Joshua,25-11-2025
+U000071,Teresa May,user000071@example.com,Other,Hollandside,01-09-2025
+U000072,Cynthia Lee,user000072@example.com,Other,Shelbyborough,19-06-2024
+U000073,Amber Jackson,user000073@example.com,Female,Port Vickichester,21-04-2025
+U000074,Stephanie Williams,user000074@example.com,Female,Chavezport,14-12-2025
+U000075,Jose Maxwell,user000075@example.com,Other,East Jasmine,27-07-2025
+U000076,Jesse Perry,user000076@example.com,Female,East Samantha,19-07-2025
+U000077,Pamela Burton,user000077@example.com,Other,Christophertown,11-09-2025
+U000078,Patrick Hoffman,user000078@example.com,Other,Carrollside,08-04-2026
+U000079,Cynthia Herman,user000079@example.com,Male,South Kathyberg,07-04-2026
+U000080,Julie Adams,user000080@example.com,Male,Cunninghamside,15-06-2024
+U000081,Aaron Hamilton Jr.,user000081@example.com,Male,Danielmouth,07-12-2025
+U000082,Troy Byrd,user000082@example.com,Other,Port Courtney,30-08-2025
+U000083,Mary Zimmerman,user000083@example.com,Other,Mileston,20-11-2025
+U000084,Nicole Roy,user000084@example.com,Other,Jeremyton,16-12-2025
+U000085,Monique Watkins,user000085@example.com,Female,East Jamestown,10-03-2026
+U000086,Jessica Rodriguez,user000086@example.com,Female,Kleinbury,04-01-2026
+U000087,Sarah Green,user000087@example.com,Other,West Sheryl,23-05-2024
+U000088,Kevin Fuller,user000088@example.com,Male,Kathrynport,13-08-2025
+U000089,Ryan Hill,user000089@example.com,Male,Hartmanborough,14-03-2026
+U000090,Evelyn Miller,user000090@example.com,Other,Jonestown,12-03-2025
+U000091,Evelyn French,user000091@example.com,Male,West Bretthaven,25-09-2025
+U000092,Jacob Hancock,user000092@example.com,Female,Knightborough,23-05-2025
+U000093,Patrick Jackson,user000093@example.com,Other,New Susanchester,05-09-2025
+U000094,Shannon Saunders,user000094@example.com,Other,Jacksonchester,22-06-2025
+U000095,Alan Hardy,user000095@example.com,Other,East Alexandra,20-09-2024
+U000096,John Sullivan,user000096@example.com,Other,West Taylorstad,13-12-2024
+U000097,Debra Martinez,user000097@example.com,Male,Billland,24-05-2024
+U000098,Wanda Taylor,user000098@example.com,Female,Lake Christina,08-05-2025
+U000099,Brandon Diaz,user000099@example.com,Female,New Yolandaport,20-11-2025
+U000100,Nathan Johnson,user000100@example.com,Other,North Jackshire,14-07-2025

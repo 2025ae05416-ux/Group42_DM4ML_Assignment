@@ -1,0 +1,14 @@
+pandas
+pandera
+apache-airflow
+kaggle
+apache-airflow>=2.0.0
+apache-airflow-providers-standard
+apache-airflow-providers-postgres
+matplotlib
+weasyprint
+scikit-learn
+seaborn
+openpyxl
+faker
+pandas

@@ -1,0 +1,13 @@
+features:
+  user_activity_freq:
+    source: orders
+    transformation: count(order_id) group_by(user_id)
+    version: 1.0
+  avg_order_value:
+    source: orders
+    transformation: mean(total_amount) group_by(user_id)
+    version: 1.0
+  item_similarity_score:
+    source: reviews
+    transformation: cosine_similarity(user_item_matrix)
+    version: 2.1

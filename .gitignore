@@ -1,0 +1,27 @@
+# --- Python & Environment ---
+# Ignore virtual environments
+venv/
+env/
+.env/
+lib/
+bin/
+include/
+__pycache__/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# --- Data & Reports (Artifacts) ---
+# Ignore generated reports (PDFs, plots)
+data/reports/
+
+# --- IDE & System Metadata ---
+# Ignore VS Code and other IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+# --- Temporary/Log files ---
+*.log
+.ipynb_checkpoints/
