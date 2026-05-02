@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,rating,stock_quantity
+P00001,Apple Smartphone,Electronics,Apple,173.35,3.6,14
+P00002,HarperCollins Python Guide,Books,HarperCollins,383.35,1.2,94
+P00003,Apple Monitor,Electronics,Apple,234.6,1.7,71
+P00004,Nike Jeans,Clothing,Nike,317.58,1.1,33
+P00005,Puma Jeans,Clothing,Puma,315.82,4.5,100
+P00006,HP Tablet,Electronics,HP,240.94,4.5,67
+P00007,Samsung Laptop,Electronics,Samsung,24.6,3.4,50
+P00008,Pearson SQL Fundamentals,Books,Pearson,311.09,4.0,35
+P00009,Apple Tablet,Electronics,Apple,262.47,2.4,78
+P00010,OReilly SQL Fundamentals,Books,OReilly,175.82,4.3,34
+P00011,Sony Monitor,Electronics,Sony,50.65,1.3,13
+P00012,Nike Jacket,Clothing,Nike,403.17,1.5,42
+P00013,HarperCollins Python Guide,Books,HarperCollins,40.1,4.0,5
+P00014,Samsung Headphones,Electronics,Samsung,463.75,1.2,65
+P00015,Pearson Python Guide,Books,Pearson,228.04,3.0,80
+P00016,Sony Monitor,Electronics,Sony,253.59,4.7,2
+P00017,Nike Hoodie,Clothing,Nike,24.72,3.4,94
+P00018,Pearson Machine Learning Book,Books,Pearson,290.63,4.2,57
+P00019,Dell Smartphone,Electronics,Dell,322.64,2.3,17
+P00020,Levis T-Shirt,Clothing,Levis,296.45,3.1,53
+P00021,Sony Monitor,Electronics,Sony,456.43,1.9,96
+P00022,Dell Headphones,Electronics,Dell,191.66,2.1,28
+P00023,Sony Monitor,Electronics,Sony,279.49,3.5,7
+P00024,HarperCollins Data Science Handbook,Books,HarperCollins,443.77,3.7,8
+P00025,Apple Smartphone,Electronics,Apple,424.14,2.2,81
+P00026,Dell Tablet,Electronics,Dell,43.93,1.2,52
+P00027,Apple Smartphone,Electronics,Apple,232.52,4.2,58
+P00028,Levis T-Shirt,Clothing,Levis,214.31,3.4,90
+P00029,Adidas Sneakers,Clothing,Adidas,162.26,3.4,75
+P00030,Ikea Vacuum,Home & Garden,Ikea,438.76,3.6,98
+P00031,Pearson SQL Fundamentals,Books,Pearson,18.81,4.2,34
+P00032,Penguin Data Science Handbook,Books,Penguin,360.52,4.7,67
+P00033,Dell Headphones,Electronics,Dell,110.77,2.3,35
+P00034,Dell Tablet,Electronics,Dell,431.77,1.3,72
+P00035,Sony Laptop,Electronics,Sony,486.86,4.8,63
+P00036,Ikea Air Purifier,Home & Garden,Ikea,277.88,4.0,13
+P00037,Levis Hoodie,Clothing,Levis,311.85,1.2,42
+P00038,OReilly Data Science Handbook,Books,OReilly,481.52,1.4,63
+P00039,Dell Monitor,Electronics,Dell,412.02,2.3,29
+P00040,KitchenAid Vacuum,Home & Garden,KitchenAid,291.54,4.1,18
+P00041,Philips Vacuum,Home & Garden,Philips,312.22,2.1,38
+P00042,HarperCollins Data Science Handbook,Books,HarperCollins,302.19,1.0,43
+P00043,Adidas Sneakers,Clothing,Adidas,360.68,1.4,70
+P00044,Ikea Vacuum,Home & Garden,Ikea,145.52,1.6,26
+P00045,Penguin Python Guide,Books,Penguin,210.3,3.6,67
+P00046,Levis Hoodie,Clothing,Levis,114.34,1.6,70
+P00047,Nike T-Shirt,Clothing,Nike,495.16,1.3,97
+P00048,HarperCollins Machine Learning Book,Books,HarperCollins,338.5,4.0,80
+P00049,Dyson Coffee Maker,Home & Garden,Dyson,354.95,3.9,42
+P00050,Apple Tablet,Electronics,Apple,92.45,4.1,70
+P00051,HarperCollins Machine Learning Book,Books,HarperCollins,288.34,3.7,82
+P00052,HarperCollins Data Science Handbook,Books,HarperCollins,41.25,1.7,78
+P00053,Penguin SQL Fundamentals,Books,Penguin,285.4,2.6,78
+P00054,Dell Tablet,Electronics,Dell,164.17,2.1,63
+P00055,Philips Desk,Home & Garden,Philips,61.15,4.9,90
+P00056,Ikea Desk,Home & Garden,Ikea,53.06,3.9,53
+P00057,Philips Air Purifier,Home & Garden,Philips,317.77,1.1,22
+P00058,Pearson Python Guide,Books,Pearson,379.84,3.3,98
+P00059,Pearson Python Guide,Books,Pearson,29.83,1.4,87
+P00060,Adidas Hoodie,Clothing,Adidas,461.1,2.1,87
+P00061,Pearson SQL Fundamentals,Books,Pearson,74.1,3.3,91
+P00062,Dell Headphones,Electronics,Dell,213.0,1.2,93
+P00063,Nike Jeans,Clothing,Nike,442.86,3.6,54
+P00064,Puma Jeans,Clothing,Puma,121.68,3.2,31
+P00065,KitchenAid Desk,Home & Garden,KitchenAid,38.23,4.2,58
+P00066,Ikea Air Purifier,Home & Garden,Ikea,242.42,1.2,72
+P00067,Pearson SQL Fundamentals,Books,Pearson,331.96,1.7,34
+P00068,Levis T-Shirt,Clothing,Levis,474.99,1.1,77
+P00069,Pearson Python Guide,Books,Pearson,340.42,3.2,59
+P00070,Uniqlo Jeans,Clothing,Uniqlo,258.31,3.9,53
+P00071,Pearson Python Guide,Books,Pearson,216.44,3.6,51
+P00072,Dell Monitor,Electronics,Dell,253.88,3.9,3
+P00073,Levis Sneakers,Clothing,Levis,151.69,1.5,3
+P00074,Philips Lamp,Home & Garden,Philips,362.0,3.4,30
+P00075,Adidas Jeans,Clothing,Adidas,280.22,3.2,61
+P00076,Adidas Hoodie,Clothing,Adidas,13.16,4.2,62
+P00077,KitchenAid Desk,Home & Garden,KitchenAid,299.71,4.2,78
+P00078,Philips Vacuum,Home & Garden,Philips,94.68,3.4,9
+P00079,Pearson Python Guide,Books,Pearson,336.89,2.7,70
+P00080,KitchenAid Coffee Maker,Home & Garden,KitchenAid,273.86,1.8,55
+P00081,HarperCollins SQL Fundamentals,Books,HarperCollins,151.13,1.5,70
+P00082,Whirlpool Air Purifier,Home & Garden,Whirlpool,468.9,4.8,76
+P00083,KitchenAid Vacuum,Home & Garden,KitchenAid,450.45,4.3,2
+P00084,Dyson Coffee Maker,Home & Garden,Dyson,473.43,2.9,9
+P00085,Dyson Lamp,Home & Garden,Dyson,384.47,2.4,16
+P00086,Pearson Python Guide,Books,Pearson,179.12,2.4,9
+P00087,Samsung Monitor,Electronics,Samsung,172.32,1.8,61
+P00088,Samsung Laptop,Electronics,Samsung,186.08,1.2,90
+P00089,OReilly Python Guide,Books,OReilly,194.72,3.1,76
+P00090,Pearson Python Guide,Books,Pearson,224.31,2.9,14
+P00091,Philips Desk,Home & Garden,Philips,367.86,3.4,35
+P00092,Philips Desk,Home & Garden,Philips,497.05,2.6,39
+P00093,Dyson Desk,Home & Garden,Dyson,376.39,1.6,13
+P00094,Sony Monitor,Electronics,Sony,330.37,1.5,33
+P00095,Dyson Coffee Maker,Home & Garden,Dyson,50.39,3.4,15
+P00096,Sony Headphones,Electronics,Sony,158.39,2.1,17
+P00097,OReilly Data Science Handbook,Books,OReilly,42.52,2.4,33
+P00098,Ikea Air Purifier,Home & Garden,Ikea,179.38,1.4,23
+P00099,Sony Headphones,Electronics,Sony,387.46,2.5,93
+P00100,Penguin SQL Fundamentals,Books,Penguin,297.18,4.1,4

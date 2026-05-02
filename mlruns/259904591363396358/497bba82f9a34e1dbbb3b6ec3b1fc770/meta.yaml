@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/259904591363396358/497bba82f9a34e1dbbb3b6ec3b1fc770/artifacts
+end_time: 1777707808939
+entry_point_name: ''
+experiment_id: '259904591363396358'
+lifecycle_stage: active
+run_id: 497bba82f9a34e1dbbb3b6ec3b1fc770
+run_name: whimsical-cod-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777707798830
+status: 3
+tags: []
+user_id: airflow

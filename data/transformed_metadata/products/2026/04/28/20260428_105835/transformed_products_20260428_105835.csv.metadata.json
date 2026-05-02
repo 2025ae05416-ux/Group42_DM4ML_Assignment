@@ -1,0 +1,12 @@
+{
+    "ingestion_date": "2026-04-28T10:58:35.515639",
+    "user_id": "system",
+    "source_file": "",
+    "transformations": [
+        {
+            "step": "load_fn",
+            "details": "Loaded into products",
+            "timestamp": "2026-04-28T10:58:35.515657"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "provenance": {
+        "ingestion_date": "2026-05-01T22:19:34.171575+05:30",
+        "user_id": "api_extraction_service",
+        "source_file": "http://user-product-api:8000/users"
+    },
+    "transformations": [
+        {
+            "step": "api_fetch",
+            "details": "Extracted 100 rows from API",
+            "timestamp": "2026-05-01T22:19:34.171633+05:30"
+        }
+    ],
+    "experiment": {
+        "run_id": null,
+        "parameters": {},
+        "metrics": {},
+        "logged_at": null
+    }
+}

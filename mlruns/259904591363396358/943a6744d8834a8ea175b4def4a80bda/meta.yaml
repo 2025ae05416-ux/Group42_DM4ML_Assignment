@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/259904591363396358/943a6744d8834a8ea175b4def4a80bda/artifacts
+end_time: 1777717493393
+entry_point_name: ''
+experiment_id: '259904591363396358'
+lifecycle_stage: active
+run_id: 943a6744d8834a8ea175b4def4a80bda
+run_name: enchanting-mole-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777717487779
+status: 3
+tags: []
+user_id: airflow

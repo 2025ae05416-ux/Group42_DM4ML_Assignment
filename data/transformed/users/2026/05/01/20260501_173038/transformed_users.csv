@@ -1,0 +1,5 @@
+user_id,name,email,gender,city,signup_date
+1,Alice,alice@test.com,Female,Mumbai,2026-01-01
+2,Bob,bob@test.com,Male,London,2026-01-02
+3,Charlie,,Other,Pune,2026-01-03
+4,Unknown User,charlie@test.com,Female,Delhi,2026-01-04

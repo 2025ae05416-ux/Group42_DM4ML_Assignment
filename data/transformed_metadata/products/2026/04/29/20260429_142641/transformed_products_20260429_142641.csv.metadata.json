@@ -1,0 +1,19 @@
+{
+    "provenance": {
+        "ingestion_date": "2026-04-29T14:26:41.536954",
+        "user_id": "system",
+        "source_file": "products.csv"
+    },
+    "transformations": [
+        {
+            "step": "load_fn",
+            "details": "Loaded into products",
+            "timestamp": "2026-04-29T14:26:41.536976"
+        }
+    ],
+    "experiment": {
+        "run_id": null,
+        "parameters": {},
+        "metrics": {}
+    }
+}

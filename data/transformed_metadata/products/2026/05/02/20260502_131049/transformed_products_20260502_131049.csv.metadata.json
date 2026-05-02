@@ -1,0 +1,20 @@
+{
+    "provenance": {
+        "ingestion_date": "2026-05-02T13:10:21.564837+05:30",
+        "user_id": "airflow_svc_account",
+        "source_file": "prepared_products.csv"
+    },
+    "transformations": [
+        {
+            "step": "transform_fn",
+            "details": "Transformation applied to validated/prepared data",
+            "timestamp": "2026-05-02T13:10:24.843568+05:30"
+        }
+    ],
+    "experiment": {
+        "run_id": null,
+        "parameters": {},
+        "metrics": {},
+        "logged_at": null
+    }
+}

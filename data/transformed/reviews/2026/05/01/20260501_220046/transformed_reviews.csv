@@ -1,0 +1,61 @@
+review_id,order_id,product_id,user_id,rating,review_text,review_date
+R9001,O555,P113,U1,4,Highly recommend this brand,2026-02-01
+R9002,O532,P125,U36,3,"Value for money, satisfied with purchase.",2026-02-02
+R9003,O550,P107,U26,5,Color was different from images.,2026-02-03
+R9004,O507,P109,U29,1,Good product will buy again,2026-02-04
+R9005,O508,P122,U21,5,"Not as expected, quality is poor.",2026-02-05
+R9006,O565,P122,U11,1,Exceeded my expectations!,2026-02-06
+R9007,O557,P111,U40,5,"Terrible quality, returned immediately.",2026-02-07
+R9008,O567,P114,U11,1,Exceeded my expectations!,2026-02-08
+R9009,O559,P104,U36,4,Decent product but overpriced.,2026-02-09
+R9010,O572,P126,U49,3,Exceeded my expectations!,2026-02-10
+R9011,O554,P126,U39,2,"Value for money, satisfied with purchase.",2026-02-11
+R9012,O567,P129,U40,1,Color was different from images.,2026-02-12
+R9013,O551,P113,U35,5,"Not as expected, quality is poor.",2026-02-13
+R9014,O508,P102,U34,2,Good product will buy again,2026-02-14
+R9015,O534,P123,U47,2,Good product will buy again,2026-02-15
+R9016,O535,P105,U24,1,,2026-02-16
+R9017,O578,P111,U22,2,"Terrible quality, returned immediately.",2026-02-17
+R9018,O532,P106,U5,5,Not good wont buy at all,2026-02-18
+R9019,O546,P118,U33,2,Color was different from images.,2026-02-19
+R9020,O516,P121,U36,5,,2026-02-20
+R9021,O568,P110,U47,1,"Not as expected, quality is poor.",2026-02-21
+R9022,O537,P104,U20,3,Exceeded my expectations!,2026-02-22
+R9023,O554,P109,U19,2,Good product will buy again,2026-02-23
+R9024,O514,P106,U35,3,"Not as expected, quality is poor.",2026-02-24
+R9025,O555,P102,U43,5,Exceeded my expectations!,2026-02-25
+R9026,O548,P117,U17,2,Good product will buy again,2026-02-26
+R9027,O507,P105,U45,4,Exceeded my expectations!,2026-02-27
+R9028,O574,P125,U43,3,"Terrible quality, returned immediately.",2026-02-28
+R9029,O507,P106,U34,2,Color was different from images.,2026-03-01
+R9030,O533,P126,U9,3,,2026-03-02
+R9031,O523,P112,U26,2,"Not as expected, quality is poor.",2026-03-03
+R9032,O519,P123,U2,1,"Not as expected, quality is poor.",2026-03-04
+R9033,O519,P121,U9,5,Fast shipping and good packaging,2026-03-05
+R9034,O536,P110,U9,4,,2026-03-06
+R9035,O529,P122,U40,4,"Terrible quality, returned immediately.",2026-03-07
+R9036,O560,P121,U17,5,"Terrible quality, returned immediately.",2026-03-08
+R9037,O502,P127,U1,2,Not good wont buy at all,2026-03-09
+R9038,O501,P125,U25,3,Exceeded my expectations!,2026-03-10
+R9039,O547,P106,U43,5,"Value for money, satisfied with purchase.",2026-03-11
+R9040,O569,P127,U40,3,Color was different from images.,2026-03-12
+R9041,O520,P108,U42,5,Color was different from images.,2026-03-13
+R9042,O511,P102,U25,4,"Terrible quality, returned immediately.",2026-03-14
+R9043,O502,P112,U39,1,Color was different from images.,2026-03-15
+R9044,O567,P113,U35,4,Fast shipping and good packaging,2026-03-16
+R9045,O512,P125,U3,5,"Not as expected, quality is poor.",2026-03-17
+R9046,O520,P121,U50,1,Highly recommend this brand,2026-03-18
+R9047,O505,P107,U37,5,Decent product but overpriced.,2026-03-19
+R9048,O537,P110,U44,2,Not good wont buy at all,2026-03-20
+R9049,O538,P113,U44,1,Exceeded my expectations!,2026-03-21
+R9050,O509,P117,U30,5,Decent product but overpriced.,2026-03-22
+R9051,O553,P126,U38,5,Exceeded my expectations!,2026-03-23
+R9052,O544,P121,U34,4,Good product will buy again,2026-03-24
+R9053,O524,P128,U12,2,Decent product but overpriced.,2026-03-25
+R9054,O574,P130,U19,3,Highly recommend this brand,2026-03-26
+R9055,O530,P126,U37,5,"Terrible quality, returned immediately.",2026-03-27
+R9056,O559,P114,U44,2,Fast shipping and good packaging,2026-03-28
+R9057,O514,P102,U49,3,"Not as expected, quality is poor.",2026-03-29
+R9058,O509,P128,U17,5,"Not as expected, quality is poor.",2026-03-30
+R9059,O540,P122,U10,5,Fast shipping and good packaging,2026-03-31
+R9060,O566,P111,U49,2,"Value for money, satisfied with purchase.",2026-04-01

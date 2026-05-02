@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,rating,stock_quantity,price_scaled,category_encoded
+P00001,HarperCollins Machine Learning Book,Books,HarperCollins,103.55,2.4,8,-0.9933557103809082,0
+P00002,Ikea Lamp,Home & Garden,Ikea,182.75,3.3,58,-0.40936844018697083,3
+P00003,Ikea Coffee Maker,Home & Garden,Ikea,498.43,3.2,64,1.918322234747653,3
+P00004,KitchenAid Desk,Home & Garden,KitchenAid,470.93,1.3,39,1.7155488770414247,3
+P00005,OReilly Machine Learning Book,Books,OReilly,350.87,3.7,100,0.8302772651792512,0
+P00006,Adidas Sneakers,Clothing,Adidas,35.62,2.0,52,-1.4942427717985116,1
+P00007,HP Headphones,Electronics,HP,391.2,4.2,35,1.1276536112262396,2
+P00008,Philips Lamp,Home & Garden,Philips,120.34,3.7,13,-0.8695533585304511,3
+P00009,OReilly Data Science Handbook,Books,OReilly,270.94,4.8,22,0.2409072840352937,0
+P00010,Whirlpool Desk,Home & Garden,Whirlpool,316.31,1.3,59,0.5754464563673511,3
+P00011,OReilly SQL Fundamentals,Books,OReilly,58.51,2.0,33,-1.325461602420491,0
+P00012,OReilly Python Guide,Books,OReilly,406.67,2.1,64,1.241722841906798,0
+P00013,HP Laptop,Electronics,HP,323.32,1.9,61,0.6271352286408296,2
+P00014,Puma Hoodie,Clothing,Puma,268.0,4.2,52,0.21922896870233693,1
+P00015,Levis Jeans,Clothing,Levis,436.22,1.3,25,1.4596120317329453,1
+P00016,OReilly Python Guide,Books,OReilly,306.55,1.3,71,0.5034803483232498,0
+P00017,Ikea Air Purifier,Home & Garden,Ikea,45.95,2.9,30,-1.4180737250674085,3
+P00018,Samsung Monitor,Electronics,Samsung,405.9,1.6,15,1.2360451878910235,2
+P00019,Puma T-Shirt,Clothing,Puma,386.39,4.6,82,1.0921867075692593,1
+P00020,Penguin Machine Learning Book,Books,Penguin,391.7,2.0,15,1.131340399548171,0
+P00021,Whirlpool Air Purifier,Home & Garden,Whirlpool,307.57,2.1,86,0.5110013964999898,3
+P00022,Philips Desk,Home & Garden,Philips,22.91,2.4,57,-1.5879609309420084,3
+P00023,Whirlpool Desk,Home & Garden,Whirlpool,164.11,4.0,18,-0.5468119088285742,3
+P00024,Sony Laptop,Electronics,Sony,304.87,4.8,17,0.4910927395615602,2
+P00025,OReilly Python Guide,Books,OReilly,260.98,1.3,94,0.16746646066241988,0
+P00026,OReilly Python Guide,Books,OReilly,219.16,2.1,40,-0.14089651458392455,0
+P00027,Adidas Jacket,Clothing,Adidas,42.45,4.9,7,-1.4438812433209285,1
+P00028,Whirlpool Lamp,Home & Garden,Whirlpool,146.63,2.0,94,-0.6757020285632969,3
+P00029,Dyson Lamp,Home & Garden,Dyson,315.31,1.9,41,0.5680728797234883,3
+P00030,HarperCollins SQL Fundamentals,Books,HarperCollins,238.44,4.6,2,0.0012660431097511558,0
+P00031,Apple Headphones,Electronics,Apple,238.96,2.4,19,0.005100302964559912,2
+P00032,Whirlpool Vacuum,Home & Garden,Whirlpool,157.82,4.8,12,-0.5931917059184716,3
+P00033,Philips Desk,Home & Garden,Philips,302.72,1.6,94,0.4752395497772552,3
+P00034,KitchenAid Coffee Maker,Home & Garden,KitchenAid,406.0,3.5,87,1.23678254555541,3
+P00035,Levis T-Shirt,Clothing,Levis,365.75,3.3,44,0.9399960856399303,1
+P00036,Dell Smartphone,Electronics,Dell,43.3,1.2,26,-1.437613703173645,2
+P00037,Nike Sneakers,Clothing,Nike,252.78,2.3,55,0.10700313218274442,1
+P00038,Apple Monitor,Electronics,Apple,41.27,3.1,94,-1.4525820637606863,2
+P00039,OReilly Machine Learning Book,Books,OReilly,231.73,3.9,4,-0.04821065617056861,0
+P00040,Ikea Vacuum,Home & Garden,Ikea,13.01,1.6,29,-1.6609593397162505,3
+P00041,OReilly Python Guide,Books,OReilly,423.57,3.3,90,1.36633628718808,0
+P00042,Whirlpool Air Purifier,Home & Garden,Whirlpool,426.64,4.2,34,1.388973167484739,3
+P00043,Puma Jeans,Clothing,Puma,56.24,3.2,31,-1.3421996214020595,1
+P00044,HarperCollins SQL Fundamentals,Books,HarperCollins,82.34,2.9,99,-1.1497492709972392,0
+P00045,HP Smartphone,Electronics,HP,318.49,2.6,10,0.5915208534509722,2
+P00046,Apple Monitor,Electronics,Apple,418.86,3.2,83,1.3316067411954862,2
+P00047,Apple Tablet,Electronics,Apple,343.37,4.7,43,0.7749754403502798,2
+P00048,HP Monitor,Electronics,HP,102.19,3.2,59,-1.003383774616562,2
+P00049,Pearson SQL Fundamentals,Books,Pearson,209.04,4.9,39,-0.2155171102198166,0
+P00050,Adidas Sneakers,Clothing,Adidas,393.4,3.7,15,1.143875479842738,1
+P00051,Whirlpool Lamp,Home & Garden,Whirlpool,139.84,1.2,94,-0.7257686139751256,3
+P00052,Apple Smartphone,Electronics,Apple,56.32,1.6,79,-1.3416097352705507,2
+P00053,Penguin Python Guide,Books,Penguin,384.69,3.6,62,1.0796516272746925,0
+P00054,Puma T-Shirt,Clothing,Puma,171.22,3.4,16,-0.49438577889070945,1
+P00055,Adidas Jacket,Clothing,Adidas,153.54,3.2,15,-0.6247506139542046,1
+P00056,Pearson Python Guide,Books,Pearson,370.74,4.7,89,0.976790233092806,0
+P00057,Samsung Smartphone,Electronics,Samsung,286.4,2.6,62,0.3549027789494132,2
+P00058,Samsung Laptop,Electronics,Samsung,150.42,1.2,68,-0.6477561730830568,2
+P00059,HarperCollins SQL Fundamentals,Books,HarperCollins,487.09,3.5,95,1.834705875606248,0
+P00060,Sony Headphones,Electronics,Sony,122.34,3.8,0,-0.8548062052427254,2
+P00061,Levis Jacket,Clothing,Levis,490.93,3.3,45,1.8630204099186816,1
+P00062,Levis Hoodie,Clothing,Levis,126.07,3.5,71,-0.827302764361117,1
+P00063,OReilly Python Guide,Books,OReilly,44.1,3.0,85,-1.4317148418585546,0
+P00064,Puma Hoodie,Clothing,Puma,77.14,2.2,95,-1.1880918695453262,1
+P00065,Adidas T-Shirt,Clothing,Adidas,256.96,2.6,66,0.13782468255409097,1
+P00066,Apple Laptop,Electronics,Apple,331.22,2.5,16,0.6853864841273464,2
+P00067,Samsung Headphones,Electronics,Samsung,96.56,4.2,22,-1.0448970111215097,2
+P00068,Samsung Headphones,Electronics,Samsung,232.21,4.8,68,-0.04467133938151431,2
+P00069,Nike T-Shirt,Clothing,Nike,65.48,1.1,28,-1.2740677732127668,1
+P00070,Sony Smartphone,Electronics,Sony,195.71,1.6,20,-0.31380688688250824,2
+P00071,KitchenAid Desk,Home & Garden,KitchenAid,363.73,2.7,62,0.9251014608193274,3
+P00072,Samsung Tablet,Electronics,Samsung,263.6,4.4,90,0.1867852314693406,2
+P00073,Levis Sneakers,Clothing,Levis,195.74,3.1,51,-0.31358567958319233,1
+P00074,Sony Smartphone,Electronics,Sony,342.63,4.2,88,0.7695189936338213,2
+P00075,Philips Vacuum,Home & Garden,Philips,38.58,4.0,40,-1.4724169849326776,3
+P00076,HarperCollins Data Science Handbook,Books,HarperCollins,160.84,4.6,65,-0.5709235044540057,0
+P00077,HarperCollins Machine Learning Book,Books,HarperCollins,66.98,3.1,5,-1.2630074082469724,0
+P00078,Pearson Data Science Handbook,Books,Pearson,166.12,4.5,32,-0.5319910197744099,0
+P00079,KitchenAid Desk,Home & Garden,KitchenAid,465.0,2.6,32,1.671823567543318,3
+P00080,Penguin Python Guide,Books,Penguin,162.95,4.2,60,-0.5553652577354553,0
+P00081,Sony Headphones,Electronics,Sony,184.24,3.0,63,-0.3983818109876151,2
+P00082,KitchenAid Air Purifier,Home & Garden,KitchenAid,45.45,4.7,35,-1.4217605133893398,3
+P00083,Whirlpool Lamp,Home & Garden,Whirlpool,59.06,1.6,81,-1.3214061352663664,3
+P00084,OReilly Machine Learning Book,Books,OReilly,338.82,3.2,95,0.7414256666207037,0
+P00085,Penguin Machine Learning Book,Books,Penguin,147.37,3.3,1,-0.6702455818468384,0
+P00086,Puma T-Shirt,Clothing,Puma,61.33,3.5,3,-1.304668116284798,1
+P00087,HarperCollins Data Science Handbook,Books,HarperCollins,318.02,4.0,99,0.5880552724283564,0
+P00088,Philips Vacuum,Home & Garden,Philips,164.6,3.5,10,-0.5431988562730815,3
+P00089,Ikea Coffee Maker,Home & Garden,Ikea,191.14,4.2,50,-0.3475041321449616,3
+P00090,Sony Smartphone,Electronics,Sony,421.43,2.7,40,1.3505568331702138,2
+P00091,Pearson Data Science Handbook,Books,Pearson,90.79,1.3,88,-1.0874425483565981,0
+P00092,Uniqlo T-Shirt,Clothing,Uniqlo,342.99,3.5,93,0.7721734812256119,1
+P00093,HarperCollins Machine Learning Book,Books,HarperCollins,228.08,4.8,24,-0.07512421092066783,0
+P00094,Sony Smartphone,Electronics,Sony,386.12,3.6,2,1.0901958418754165,2
+P00095,Pearson SQL Fundamentals,Books,Pearson,407.15,4.2,9,1.245262158695852,0
+P00096,Sony Smartphone,Electronics,Sony,373.23,2.4,22,0.9951504389360245,2
+P00097,HarperCollins Data Science Handbook,Books,HarperCollins,374.24,3.8,59,1.002597751346326,0
+P00098,Whirlpool Lamp,Home & Garden,Whirlpool,106.58,3.5,59,-0.971013773150004,3
+P00099,HP Headphones,Electronics,HP,210.32,3.9,93,-0.20607893211567216,2
+P00100,Puma Sneakers,Clothing,Puma,290.66,1.7,64,0.38631421545226924,1

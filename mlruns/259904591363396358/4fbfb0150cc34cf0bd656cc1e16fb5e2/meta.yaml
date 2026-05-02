@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/259904591363396358/4fbfb0150cc34cf0bd656cc1e16fb5e2/artifacts
+end_time: 1777711222865
+entry_point_name: ''
+experiment_id: '259904591363396358'
+lifecycle_stage: active
+run_id: 4fbfb0150cc34cf0bd656cc1e16fb5e2
+run_name: youthful-hen-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777711217783
+status: 3
+tags: []
+user_id: airflow

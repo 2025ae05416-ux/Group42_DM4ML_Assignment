@@ -1,0 +1,19 @@
+{
+    "provenance": {
+        "ingestion_date": "2026-04-28T20:53:08.815839",
+        "user_id": "system",
+        "source_file": "reviews.csv"
+    },
+    "transformations": [
+        {
+            "step": "load_fn",
+            "details": "Loaded into reviews",
+            "timestamp": "2026-04-28T20:53:08.815898"
+        }
+    ],
+    "experiment": {
+        "run_id": null,
+        "parameters": {},
+        "metrics": {}
+    }
+}

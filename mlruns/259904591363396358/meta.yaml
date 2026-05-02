@@ -1,0 +1,8 @@
+artifact_location: mlflow-artifacts:/259904591363396358
+creation_time: 1777702893943
+experiment_id: '259904591363396358'
+last_update_time: 1777702893943
+lifecycle_stage: active
+name: RecSys_reviews
+trace_location: null
+workspace: default

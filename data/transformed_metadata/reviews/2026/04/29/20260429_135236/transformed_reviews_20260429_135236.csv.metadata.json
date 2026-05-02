@@ -1,0 +1,25 @@
+{
+    "provenance": {
+        "ingestion_date": "2026-04-29T13:52:36.336931",
+        "user_id": "system",
+        "source_file": "reviews.csv"
+    },
+    "transformations": [
+        {
+            "step": "load_fn",
+            "details": "Loaded into reviews",
+            "timestamp": "2026-04-29T13:52:36.336946"
+        }
+    ],
+    "experiment": {
+        "run_id": "468b355052134a77b9c0fcd231b9a249",
+        "parameters": {
+            "model_type": "SVD",
+            "n_components": 20
+        },
+        "metrics": {
+            "mae": 3.6,
+            "rmse": 3.8079
+        }
+    }
+}

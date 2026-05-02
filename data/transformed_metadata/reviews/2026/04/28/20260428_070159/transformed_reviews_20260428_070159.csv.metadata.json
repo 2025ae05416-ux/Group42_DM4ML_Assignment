@@ -1,0 +1,12 @@
+{
+    "ingestion_date": "2026-04-28T07:01:59.856711",
+    "user_id": "system",
+    "source_file": "",
+    "transformations": [
+        {
+            "step": "load_fn",
+            "details": "Loaded into reviews",
+            "timestamp": "2026-04-28T07:01:59.856732"
+        }
+    ]
+}
