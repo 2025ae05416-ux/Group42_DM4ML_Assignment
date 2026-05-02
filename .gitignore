@@ -1,6 +1,7 @@
 # --- Python & Environment ---
 # Ignore virtual environments
 venv/
+.venv/
 env/
 .env/
 lib/
@@ -31,3 +32,9 @@ postgres/
 pg_data/
 *.db
 *.sqlite
+
+# MLflow
+mlruns/
+
+# Metadata
+*.metadata.json

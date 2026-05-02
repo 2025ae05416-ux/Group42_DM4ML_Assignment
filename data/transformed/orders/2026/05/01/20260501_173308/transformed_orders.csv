@@ -1,5 +1,0 @@
-order_id,user_id,order_date,order_status,total_amount
-501,1,2026-04-30,Delivered,1500
-502,2,2026-05-01,Shipped,2500
-503,3,2026-12-31,Unknown,0
-504,4,2026-05-01,Pending,500

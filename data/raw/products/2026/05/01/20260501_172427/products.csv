@@ -1,5 +1,0 @@
-product_id,product_name,category,brand,price,rating,stock_quantity
-101,Laptop,Electronics,Dell,75000,4.5,10
-102,,Electronics,HP,-500,3.2,5
-103,Smartphone,Electronics,Apple,55000,9.9,0
-104,Headphones,Audio,Sony,12000,4.0,50
